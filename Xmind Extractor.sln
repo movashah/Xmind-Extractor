@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36631.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Xmind Extractor", "Xmind Extractor\Xmind Extractor.vbproj", "{A3C326B0-B382-4761-98B0-F01DB528638D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C326B0-B382-4761-98B0-F01DB528638D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C326B0-B382-4761-98B0-F01DB528638D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C326B0-B382-4761-98B0-F01DB528638D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C326B0-B382-4761-98B0-F01DB528638D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E05A29-C05D-4224-8CB2-1947BC0C7F15}
+	EndGlobalSection
+EndGlobal
